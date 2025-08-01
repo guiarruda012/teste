@@ -143,8 +143,12 @@ function calculoSala (largura, altura) {                               //       
     let numero = 9;
     calcularTabuada(numero); */
 
+    prompt('Bom dia');
+
 
     let listaDeProgramacao = ['python', 'javaScript', 'java', 'c#'];
     listaDeProgramacao.push('c++', 'html', 'css');
-    console.log(listaDeProgramacao);
+    console.log(listaDeProgramacao); 
+
+
    
